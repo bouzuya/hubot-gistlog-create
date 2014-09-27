@@ -1,6 +1,6 @@
 {
   "name": "hubot-gistlog-create",
-  "version": "0.0.0",
+  "version": "0.9.0",
   "description": "A Hubot script that creates a gistlog entry",
   "main": "index.js",
   "scripts": {
